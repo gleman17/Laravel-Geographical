@@ -10,8 +10,6 @@
         }
     ],
     "require": {
-        "php": "8.*",
-        "laravel/framework": "9.*"
     },
     "require-dev": {
     },
